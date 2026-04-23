@@ -1,11 +1,11 @@
-local Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/Sharkvotritao/script-siu-vip/refs/heads/main/script%20vip.txt"))()
+local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 --------------------------------------------------------------------------------------------------------------------------------------------
 local Window = Fluent:CreateWindow({
     --ai skid uk =)
     --shark hub , aniee hub :>
-    Title = "Shark hub",
+    Title = "Kyzen👑 Hub",
     SubTitle = "Version 2",
     TabWidth = 160,
     Size = UDim2.fromOffset(530, 350),
